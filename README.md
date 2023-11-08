@@ -5,4 +5,6 @@ This repository is used as a virtual storage space for everything I have managed
 
 - [Using Raspberry Pi to Control a PWM Fan and Monitor its Speed](https://blog.driftking.tw/en/2019/11/Using-Raspberry-Pi-to-Control-a-PWM-Fan-and-Monitor-its-Speed/)
 
--[ar51an - Raspberrypi-Fan-Control](https://github.com/ar51an/raspberrypi-fan-control)
+- [ar51an - Raspberrypi-Fan-Control](https://github.com/ar51an/raspberrypi-fan-control)
+
+- [RaspberryCast 3.0](https://github.com/vincelwt/RaspberryCast)
