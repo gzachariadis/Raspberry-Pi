@@ -1,6 +1,12 @@
 # Raspberry-Pi-Configuration
 This repository is used as a virtual storage space for everything I have managed to track down and use over the years, in my effort of creating, optimizing and maintaining my Raspberry Pi Configuration.
 
+## Hardware
+
+- [Raspberry Pi 4 Low-Profile Cooler](https://www.phonegallerystore.gr/shop/pc-image-sound/raspberry-pi/%ce%b1%ce%be%ce%b5%cf%83%ce%bf%cf%85%ce%ac%cf%81-%ce%b3%ce%b9%ce%b1-raspberry-pi/raspberry-pi-4-low-profile-cpu-cooler-with-rgb-and-heatsink-for-raspberry-pi-silver/)
+- 
+
+
 ## System Leaning
 
 - [Remove uncessary software](https://medium.com/@sean_t_king/how-to-remove-un-necessary-software-from-your-raspberry-pi-server-fa312f83e00)
