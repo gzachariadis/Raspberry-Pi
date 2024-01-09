@@ -3,9 +3,9 @@ This repository is used as a virtual storage space for everything I have managed
 
 ## System Leaning
 
-= [Remove uncessary software](https://medium.com/@sean_t_king/how-to-remove-un-necessary-software-from-your-raspberry-pi-server-fa312f83e00)
-
-
+- [Remove uncessary software](https://medium.com/@sean_t_king/how-to-remove-un-necessary-software-from-your-raspberry-pi-server-fa312f83e00)
+- [Log2Ram](https://singleboardbytes.com/1594/install-use-log2ram-raspberry-pi.htm)
+  
 ## Hardening
 
 - [Delete the Pi User](https://www.pragmaticlinux.com/2021/06/delete-the-pi-user-from-your-raspberry-pi/)
@@ -17,6 +17,10 @@ This repository is used as a virtual storage space for everything I have managed
 
 - [Fail2Ban](https://pimylifeup.com/raspberry-pi-fail2ban/)
 - [Two-Factor Autentication](https://www.raspberrypi.com/news/setting-up-two-factor-authentication-on-your-raspberry-pi/)
+
+## Networking
+
+- [Sync Time with a Server](https://raspberrytips.com/time-sync-raspberry-pi/)
 
 ## Updating
 
