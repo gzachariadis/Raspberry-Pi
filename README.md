@@ -4,9 +4,7 @@ This repository is used as a virtual storage space for everything I have managed
 ## Hardware
 
 - [Raspberry Pi 4 Low-Profile Cooler](https://www.phonegallerystore.gr/shop/pc-image-sound/raspberry-pi/%ce%b1%ce%be%ce%b5%cf%83%ce%bf%cf%85%ce%ac%cf%81-%ce%b3%ce%b9%ce%b1-raspberry-pi/raspberry-pi-4-low-profile-cpu-cooler-with-rgb-and-heatsink-for-raspberry-pi-silver/)
-- 
-
-
+  
 ## System Leaning
 
 - [Remove uncessary software](https://medium.com/@sean_t_king/how-to-remove-un-necessary-software-from-your-raspberry-pi-server-fa312f83e00)
@@ -32,6 +30,60 @@ This repository is used as a virtual storage space for everything I have managed
 ## Updating
 
 - [Auto Update Raspberry Pi using a Script and Cron](https://www.paulligocki.com/auto-update-raspberry-pi-using-a-script-and-cron/)
+
+
+## Resources
+
+- https://mlagerberg.gitbooks.io/raspberry-pi/content/2.1-iptables.html
+- https://raspberrytips.com/security-tips-raspberry-pi/
+- https://www.instructables.com/Another-Raspberry-Pi-Cluster
+- https://pimylifeup.com/cron-jobs-and-crontab/
+- https://jamesachambers.com/best-ssd-storage-adapters-for-raspberry-pi-4-400/
+- https://pimylifeup.com/raspberry-pi-vpn-server/
+- https://dietpi.com/forum/t/changing-dietpi-user-in-scripts/4254
+- https://gist.github.com/rdmarsh/5070295
+- https://medium.com/codex/complete-self-hosted-bitwarden-for-raspberry-pi-24b59c3b02df
+- https://adminscriptbank.wordpress.com/2016/09/16/debian-debian-jessie-fail2ban-implementation/
+- https://dietpi.com/docs/dietpi_tools/
+- https://hub.docker.com/r/pihole/pihole
+- https://ikarus.sg/extend-sd-card-lifespan-with-log2ram
+- https://github.com/containrrr/watchtower
+- https://github.com/louislam/uptime-kuma
+- https://github.com/peterblazejewicz/raspberry-pi-setup#space-cleanup
+- https://github.com/tschaffter/raspberry-pi
+- https://github.com/wtsxDev/Raspberry-Pi
+- https://linuxfun.org/en/2021/01/01/what-log2ram-does-en/
+- https://phoenixnap.com/kb/docker-on-raspberry-pi
+- https://pimylifeup.com/raspberry-pi-volumio/
+- https://www.cyberciti.biz/tips/how-to-linux-prevent-the-reuse-of-old-passwords.html
+- https://www.eliaslundgaard.com/posts/mount-nas-to-pi/
+- https://www.tomshardware.com/how-to/save-space-raspberry-pi-os
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2
+- http://kamilslab.com/2016/12/17/how-to-set-up-ssh-keys-on-the-raspberry-pi/
+- https://pimylifeup.com/raspberry-pi-docker/
+- https://raspberrypi.stackexchange.com/questions/79728/keep-hdmi-off-on-boot
+- https://askubuntu.com/questions/1314479/ntp-not-supported
+- https://blues.com/blog/tips-tricks-optimizing-raspberry-pi-power/
+- https://www.reddit.com/r/raspberry_pi/comments/1eue4o/psa_if_your_pi_has_ssh_exposed_to_the_world/
+- https://www.raspberrypi.com/documentation/computers/configuration.html
+- https://kalitut.com/raspberry-pi-HDMI-port/
+- https://gist.github.com/herrbischoff/bb6db0896400764aed6d
+- https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys
+- https://sites.google.com/site/cartwrightraspberrypiprojects/home/steps/remove-unused-stuff-from-raspbian
+- https://web.archive.org/web/20130625182139/https://extremeshok.com/2012/07/22/raspberry-pi-raspbian-tuning-optimising-optimizing-for-reduced-memory-usage/
+- http://jheyman.github.io/blog/pages/RaspberryPiTipsAndTricks/
+- https://core-electronics.com.au/guides/raspberry-pi-workshop-for-beginners
+- https://www.selfhostedlabs.com/raspberrypiproject/
+- https://kalitut.com/secure-ssh-server-on-raspberry-pi/
+- https://www.reddit.com/r/sysadmin/comments/fsf621/securing_a_raspberry_pi_on_the_network/
+- https://www.reddit.com/r/selfhosted/comments/b3pwk3/securing_raspberry_pi/
+- https://www.reddit.com/r/raspberry_pi/comments/54zssu/securing_your_pi_for_real_and_not_just_pretend/
+- https://pimylifeup.com/raspberry-pi-wireguard/
+- https://pimylifeup.com/raspberry-pi-ebook-server/
+- https://www.jeffgeerling.com/blog/2020/fastest-usb-storage-options-raspberry-pi
+- https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36
+- https://pimylifeup.com/raspberry-pi-zram/
+- https://www.blackmoreops.com/2021/10/25/vcgencmd-command-not-found/
 
 
 
